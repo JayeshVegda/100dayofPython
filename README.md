@@ -1,5 +1,5 @@
-# 10dayofPython
-10 Days of Code
+# 10 DayofPython
+Repeting to checkout python again
 
  |Day | Descripton | Status |
 |--|--|--|
